@@ -34,6 +34,7 @@ cover:
     state_closed: "off"
     payload_open: "open"
     payload_close: "close"
+    payload_stop: "stop"
     retain: false
     optimistic: false
 ```
